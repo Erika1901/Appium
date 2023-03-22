@@ -1,0 +1,335 @@
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:00:37.603 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:00:52.986 BaseTest:155 - sessionId: 7d696f42-0a26-42de-83b4-271ce79c90ef
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:00:53.888 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:00:53.889 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:06.326 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:06.327 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:08.096 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:08.097 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:19.392 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:19.392 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:21.099 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:21.099 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:34.124 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:34.124 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:35.105 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:35.105 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:46.218 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:46.218 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:47.877 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:47.878 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:59.186 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:01:59.187 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:02:00.688 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:02:00.688 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:02:12.577 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:02:12.577 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:13.329 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:26.958 BaseTest:155 - sessionId: 4979f9a8-bc70-428a-a311-ffde050bd88b
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:27.834 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:27.834 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:34.262 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:37.317 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:39.528 BasePage:134 - Filling hammann.ahmadou@institutsaintjean.org in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:39.589 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:40.759 BasePage:134 - Filling Execution7. in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:40.808 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:41.906 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:45.192 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:45.233 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:45.233 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:46.003 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:46.003 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:47.980 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:47.981 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:48.022 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:48.661 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:48.702 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:49.828 BasePage:134 - Filling Execution7.g in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:49.868 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:50.973 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:52.507 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:52.540 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:52.540 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:53.041 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:53.041 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:54.724 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:14:54.724 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:54.779 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:55.364 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:55.410 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:56.499 BasePage:134 - Filling Execution7. in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:56.542 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 12:14:57.622 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:15:07.961 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:15:07.961 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:15:09.070 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:15:09.070 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:15:19.719 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 12:15:19.719 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:33:50.670 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:04.555 BaseTest:155 - sessionId: 93beb2d7-69a0-4ad9-b708-97f9ad63581b
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:05.330 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:05.330 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:11.087 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:12.563 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:14.935 BasePage:134 - Filling erika.edzoapk7@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:14.978 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:16.135 BasePage:134 - Filling Execution7. in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:16.178 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:17.318 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:20.565 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:20.617 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:20.617 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:21.371 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:21.371 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:23.563 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:23.563 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:23.611 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:24.262 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:24.309 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:25.415 BasePage:134 - Filling Execution7.g in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:25.462 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:26.555 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:28.424 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:28.459 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:34:28.460 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:28.936 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:28.936 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:30.694 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:30.695 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:41.479 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:41.480 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:42.930 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:42.931 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:53.720 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:34:53.721 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:36:48.823 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:00.058 BaseTest:155 - sessionId: 385d887c-67fb-411c-b66d-82798adf0a77
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:01.032 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:01.033 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:05.706 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:08.441 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:10.817 BasePage:134 - Filling erika.edzoapk7@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:10.874 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:12.021 BasePage:134 - Filling Execution7. in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:12.064 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:13.190 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:16.324 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:16.363 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:16.363 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:17.133 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:17.133 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:19.129 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:19.129 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:19.179 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:19.890 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:19.924 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:21.008 BasePage:134 - Filling Execution7.g in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:21.047 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:22.103 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:23.513 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:23.548 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:23.549 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:24.019 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:24.019 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:25.719 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:25.719 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:25.765 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:26.435 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:26.480 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:27.572 BasePage:134 - Filling Aliyah2020* in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:27.628 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 14:37:28.731 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:39.570 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:39.570 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:41.237 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:41.238 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:51.876 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 14:37:51.877 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:03:31.922 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:03:42.803 BaseTest:155 - sessionId: f570689c-0a5e-4cbb-8188-6c4577bfc5e1
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:03:43.615 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:03:43.616 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:47.379 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:48.640 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:50.772 BasePage:134 - Filling erika.edzoapk7@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:50.840 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:51.472 BasePage:134 - Filling Execution7. in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:51.901 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:52.273 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:57.446 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:57.534 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:03:57.534 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:03:58.755 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:03:58.755 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:00.585 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:00.586 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:00.643 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:01.617 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:01.652 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:02.750 BasePage:134 - Filling Execution7.g in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:02.793 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:03.916 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:05.382 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:05.424 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:05.425 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:05.948 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:05.948 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:07.513 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:07.513 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:07.560 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:08.167 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:08.198 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:09.287 BasePage:134 - Filling Aliyah2020* in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:09.332 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 15:04:10.402 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:22.557 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:22.558 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:24.282 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:24.282 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:34.964 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 15:04:34.965 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:21:32.451 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:21:45.418 BaseTest:155 - sessionId: 450fbc28-af45-41b4-ad70-1b1aa6d8e51b
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:21:46.217 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:21:46.218 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:21:51.784 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:21:53.253 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:21:56.319 BasePage:134 - Filling erika.edzoapk7@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:21:56.369 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:21:57.558 BasePage:134 - Filling Execution7. in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:21:57.618 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:21:58.748 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:07.931 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:07.993 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:07.993 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:08.715 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:08.716 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:10.863 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:10.864 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:10.930 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:11.560 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:11.605 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:12.732 BasePage:134 - Filling Execution7.g in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:12.773 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:13.890 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:17.304 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:17.338 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:17.339 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:17.787 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:17.787 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:19.473 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:19.473 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:19.531 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:20.142 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:20.177 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:21.258 BasePage:134 - Filling Aliyah2020* in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:21.304 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:22:22.432 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:34.034 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:34.035 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:35.724 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:35.725 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:46.355 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:22:46.356 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:42:31.036 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:42:41.819 BaseTest:155 - sessionId: b7bfc035-55b5-40bc-880b-536c9dd7e40d
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:42:42.649 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:42:42.649 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:45.956 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:49.217 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:52.153 BasePage:134 - Filling erika.edzoapk7@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:52.194 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:53.345 BasePage:134 - Filling Execution7. in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:53.381 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:54.506 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:57.973 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:58.020 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:42:58.021 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:42:58.779 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:42:58.780 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:00.749 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:00.749 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:01.160 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:01.817 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:01.875 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:02.977 BasePage:134 - Filling Execution7.g in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:03.025 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:04.146 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:05.482 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:05.530 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:05.530 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:05.921 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:05.922 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:07.018 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:07.019 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:07.074 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:07.681 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:07.723 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:08.816 BasePage:134 - Filling Aliyah2020* in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:08.852 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:09.940 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:13.812 BasePage:166 - Attribute: text - value for Compte is - Compte
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:13.890 VerificationUtils:38 - Actual: Compte
+[logsAndroid_Pixel4 INFO ] 2023-02-15 16:43:13.891 VerificationUtils:39 - Expected: Compte
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:14.094 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:14.095 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:15.368 LogoutTests:37 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:15.369 LogoutTests:38 - ******************* Test started: successfulLogout*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:26.682 LogoutTests:46 - *****************  ** Test ended: successfulLogout*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:26.682 LogoutTests:47 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:28.102 LogoutTests:37 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:28.103 LogoutTests:38 - ******************* Test started: successfulLogout*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:39.117 LogoutTests:46 - *****************  ** Test ended: successfulLogout*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 16:43:39.118 LogoutTests:47 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:12.873 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:24.038 BaseTest:155 - sessionId: 5ba75d42-a15c-40a3-a929-8df5c8586fa8
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:24.893 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:24.894 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:30.051 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:31.517 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:34.021 BasePage:134 - Filling erika.edzoapk7@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:34.250 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:35.403 BasePage:134 - Filling Execution7. in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:35.461 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:36.578 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:39.595 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:39.649 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:39.650 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:40.488 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:40.489 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:42.776 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:42.778 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:42.833 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:43.522 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:43.588 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:44.726 BasePage:134 - Filling Execution7.g in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:44.771 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:45.871 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:47.405 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:47.435 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:47.436 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:47.915 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:47.916 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:48.968 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:48.969 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:49.033 BasePage:111 - MODIFIER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:49.696 BasePage:134 - Filling erika.edzoapk37@gmail.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:49.736 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:50.840 BasePage:134 - Filling Aliyah2020* in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:50.886 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:52.008 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:56.508 BasePage:166 - Attribute: text - value for Compte is - Compte
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:56.588 VerificationUtils:38 - Actual: Compte
+[logsAndroid_Pixel4 INFO ] 2023-02-15 17:21:56.588 VerificationUtils:39 - Expected: Compte
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:56.841 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:56.842 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:58.913 LogoutTests:37 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:21:58.914 LogoutTests:38 - ******************* Test started: successfulLogout*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:22:10.621 LogoutTests:46 - *****************  ** Test ended: successfulLogout*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:22:10.622 LogoutTests:47 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:22:12.102 LogoutTests:37 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:22:12.103 LogoutTests:38 - ******************* Test started: successfulLogout*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:22:23.251 LogoutTests:46 - *****************  ** Test ended: successfulLogout*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-15 17:22:23.252 LogoutTests:47 - ---------------------------------------------------

@@ -1,0 +1,14 @@
+{
+	"invalidUser": {
+		"username": "erika.edzoapk7@gmail.com",
+		"password": "Aliyah2020*"
+	},
+	"invalidPassword": {
+		"username": "erika.edzoapk37@gmail.com",
+		"password": "azrty12345"
+	},
+	"validUser": {
+		"username": "erika.edzoapk37@gmail.com",
+		"password": "Aliyah2020*"
+	}
+}

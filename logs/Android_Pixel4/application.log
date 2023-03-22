@@ -1,0 +1,266 @@
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:15:14.355 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:25.488 BaseTest:155 - sessionId: 19c23fd5-b6b9-406d-b8fd-a8b3ba646d8c
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:27.082 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:27.083 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:31.326 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:31.327 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:53.700 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:53.701 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:56.852 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:16:56.852 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:22.811 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:34.088 BaseTest:155 - sessionId: 5071aa70-7280-4a30-9b1c-ebbfbd4ebe06
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:34.860 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:34.860 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:36.289 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:36.290 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:47.394 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:47.394 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:47.917 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:24:47.918 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:33:47.010 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:33:59.048 BaseTest:155 - sessionId: 2d5df760-ce40-4e20-a5dc-bba339cd9d45
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:33:59.944 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:33:59.945 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:04.755 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:08.719 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:10.458 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:11.323 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:11.377 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:12.649 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:12.688 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:13.829 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:34:25.454 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:34:25.454 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:34:34.881 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:34:34.883 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:38.652 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:40.354 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:43.043 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:44.051 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:44.099 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:45.346 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:45.382 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:34:46.472 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:34:57.931 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:34:57.932 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:42:50.369 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:43:00.978 BaseTest:155 - sessionId: 4f9d44e2-ad49-45d1-bb4f-b812f9b86758
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:43:01.796 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:43:01.796 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:06.841 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:09.136 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:12.600 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:13.822 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:13.879 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:15.201 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:15.242 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:16.353 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:43:27.916 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:43:27.916 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:43:37.282 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:43:37.283 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:39.682 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:41.553 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:44.811 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:46.286 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:46.345 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:47.618 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:47.658 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 09:43:48.755 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:44:00.225 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 09:44:00.226 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:06:21.848 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:06:34.147 BaseTest:155 - sessionId: 90ff7405-3e41-42ef-a02b-eb6a91bbaf3a
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:06:35.016 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:06:35.017 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:06:40.936 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:06:44.293 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:06:46.742 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:06:47.572 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:06:47.641 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:06:48.953 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:06:49.000 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:06:50.119 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:00.589 BasePage:111 - Femme is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:01.446 BasePage:134 - Filling Labonté in Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:01.497 BasePage:118 - Clearing: Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:02.645 BasePage:134 - Filling Yolande in Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:02.697 BasePage:118 - Clearing: Prénom*
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:07:14.274 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:07:14.274 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:07:23.170 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:07:23.171 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:25.721 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:27.220 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:29.063 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:31.009 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:31.058 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:32.289 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:32.320 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:33.443 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:38.822 BasePage:111 - Femme is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:39.393 BasePage:134 - Filling Labonté in Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:39.495 BasePage:118 - Clearing: Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:40.615 BasePage:134 - Filling Yolande in Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:40.652 BasePage:118 - Clearing: Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:07:44.215 BasePage:111 - CREER MON COMPTE is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:07:44.376 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:07:44.376 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:16:14.770 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:16:26.112 BaseTest:155 - sessionId: feeca933-b2f7-46a3-ac41-27df068f1461
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:16:26.834 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:16:26.835 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:28.812 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:32.813 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:36.089 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:37.136 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:37.192 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:38.484 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:38.525 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:39.640 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:48.902 BasePage:111 - Femme is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:49.506 BasePage:134 - Filling Labonté in Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:49.601 BasePage:118 - Clearing: Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:50.774 BasePage:134 - Filling Yolande in Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:50.813 BasePage:118 - Clearing: Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:16:54.011 BasePage:111 - CREER MON COMPTE is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:16:54.076 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:16:54.076 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:30:01.239 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:30:13.663 BaseTest:155 - sessionId: 91e67bc0-0db2-4f3b-b99c-86ecd8bc7620
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:30:14.464 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:30:14.464 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:18.811 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:21.322 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:23.789 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:24.789 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:24.833 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:26.109 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:26.159 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:27.283 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:30:38.914 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:30:38.915 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:30:49.420 SignInTests:36 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:30:49.420 SignInTests:37 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:54.020 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:55.953 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:57.979 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:59.125 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:30:59.158 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:31:00.389 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:31:00.446 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 10:31:01.927 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:31:13.346 SignInTests:47 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 10:31:13.346 SignInTests:48 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:11:26.094 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:11:38.862 BaseTest:155 - sessionId: fb7fb190-310f-4fe1-a382-b722ab0abe15
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:11:39.735 SignInTests:40 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:11:39.737 SignInTests:41 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:44.707 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:47.794 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:50.142 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:51.080 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:51.131 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:52.432 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:52.482 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:53.601 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:59.397 BasePage:111 - Femme is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:11:59.971 BasePage:134 - Filling Labonté in Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:00.065 BasePage:118 - Clearing: Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:01.510 BasePage:134 - Filling Yolande in Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:01.546 BasePage:118 - Clearing: Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:04.882 BasePage:111 - CREER MON COMPTE is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:05.905 BasePage:111 - null is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:12.177 BasePage:111 - J'ai compris is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:12:13.707 SignInTests:51 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:12:13.708 SignInTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:12:24.157 SignInTests:40 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:12:24.158 SignInTests:41 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:26.827 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:28.777 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:31.149 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:32.022 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:32.070 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:33.348 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:33.389 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:34.510 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:37.805 BasePage:111 - Femme is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:38.386 BasePage:134 - Filling Labonté in Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:38.441 BasePage:118 - Clearing: Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:39.593 BasePage:134 - Filling Yolande in Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:39.640 BasePage:118 - Clearing: Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:43.087 BasePage:111 - CREER MON COMPTE is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:12:44.059 BasePage:111 - null is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:12:55.156 SignInTests:51 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:12:55.156 SignInTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:15:06.209 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:15:18.750 BaseTest:155 - sessionId: 4480f5e2-752f-44c0-8d73-ca747e1619c3
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:15:19.613 SignInTests:40 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:15:19.613 SignInTests:41 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:22.477 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:28.286 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:30.255 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:31.099 BasePage:134 - Filling YolandeSt-Jacques@teleworm.us in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:31.146 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:32.790 BasePage:134 - Filling chee0Oi9Xo in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:32.834 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:33.994 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:38.717 BasePage:111 - Femme is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:39.312 BasePage:134 - Filling Labonté in Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:39.392 BasePage:118 - Clearing: Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:40.536 BasePage:134 - Filling Yolande in Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:40.583 BasePage:118 - Clearing: Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:44.008 BasePage:111 - CREER MON COMPTE is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:15:44.907 BasePage:111 - null is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:15:57.294 SignInTests:51 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:15:57.295 SignInTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:20:06.652 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:20:19.381 BaseTest:155 - sessionId: bc0fb996-aa5f-4f65-8e97-0709c084e02d
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:20:20.306 SignInTests:40 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:20:20.307 SignInTests:41 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:20:23.722 SignInTests:51 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:20:23.723 SignInTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:20:33.861 SignInTests:40 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:20:33.861 SignInTests:41 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:37.751 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:38.801 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:41.296 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:42.524 BasePage:134 - Filling DorotheeBourget@jourrapide.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:42.579 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:43.886 BasePage:134 - Filling ootaeri0iZ4 in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:43.935 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:45.061 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:50.294 BasePage:111 - Femme is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:50.922 BasePage:134 - Filling Bourget in Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:51.014 BasePage:118 - Clearing: Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:52.165 BasePage:134 - Filling Dorothee in Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:52.207 BasePage:118 - Clearing: Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:55.558 BasePage:111 - CREER MON COMPTE is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:20:56.496 BasePage:111 - null is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:21:01.411 BasePage:111 - J'ai compris is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:21:01.455 SignInTests:51 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:21:01.456 SignInTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:28:37.625 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:30:27.570 BaseTest:133 - Log file path: logs\Android_Pixel4
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:30:41.174 BaseTest:155 - sessionId: b9801ac6-0deb-4a50-a275-55292e727013
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:30:42.163 SignInTests:40 - ---------------------------------------------------
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:30:42.164 SignInTests:41 - ******************* Test started: successfulSignIn*******************
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:30:46.721 BasePage:111 - Mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:30:51.182 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:30:53.919 BasePage:111 - Créer mon compte is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:30:54.875 BasePage:134 - Filling ZaraDaigle@jourrapide.com in Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:30:54.924 BasePage:118 - Clearing: Mon courriel*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:30:56.184 BasePage:134 - Filling geiChieQu1b in Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:30:56.240 BasePage:118 - Clearing: Mon mot de passe*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:30:57.389 BasePage:111 - VALIDER is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:31:01.551 BasePage:111 - Femme is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:31:02.147 BasePage:134 - Filling Daigle in Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:31:02.265 BasePage:118 - Clearing: Nom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:31:03.413 BasePage:134 - Filling Zara in Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:31:03.453 BasePage:118 - Clearing: Prénom*
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:31:06.686 BasePage:111 - CREER MON COMPTE is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:31:07.566 BasePage:111 - ACCEPTER LES CONDITIONS is clicked
+[logsAndroid_Pixel4 INFO ] 2023-02-20 11:31:12.551 BasePage:111 - J'ai compris is clicked
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:31:12.641 SignInTests:51 - *****************  ** Test ended: successfulSignIn*******************
+[logsAndroid_Pixel4 DEBUG] 2023-02-20 11:31:12.642 SignInTests:52 - ---------------------------------------------------

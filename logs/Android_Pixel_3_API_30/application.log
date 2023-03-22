@@ -1,0 +1,497 @@
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:17.913 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:28.116 BaseTest:155 - sessionId: b5ce1e1e-70ca-4efa-bb1a-48ddee108cfb
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:28.707 LoginTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:28.708 LoginTests:59 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:34.163 BasePage:134 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:34.280 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:35.971 BasePage:134 - Filling invalidpassword in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:36.036 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:37.722 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:39.223 BasePage:166 - Attribute: text - value for Username and password do not match any user in this service. is - Username and password do not match any user in this service.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:39.316 VerificationUtils:38 - Actual: Username and password do not match any user in this service.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:39.317 VerificationUtils:39 - Expected: Username and password do not match any user in this service.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:39.775 LoginTests:67 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:39.776 LoginTests:68 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:41.338 LoginTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:41.338 LoginTests:59 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:41.404 BasePage:134 - Filling invalidusername in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:41.444 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:43.149 BasePage:134 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:43.187 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:44.338 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:44.946 BasePage:166 - Attribute: text - value for Username and password do not match any user in this service. is - Username and password do not match any user in this service.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:45.043 VerificationUtils:38 - Actual: Username and password do not match any user in this service.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:45.043 VerificationUtils:39 - Expected: Username and password do not match any user in this service.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:45.363 LoginTests:67 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:45.363 LoginTests:68 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:46.734 LoginTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:46.735 LoginTests:59 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:46.811 BasePage:134 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:46.871 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:48.206 BasePage:134 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:48.277 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:49.419 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:51.101 BasePage:166 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:51.195 VerificationUtils:38 - Actual: PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:51.195 VerificationUtils:39 - Expected: PRODUCTS
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:52.123 LoginTests:67 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:52.124 LoginTests:68 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:56.080 ProductTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:27:56.080 ProductTests:65 - ******************* Test started: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:56.141 BasePage:134 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:56.186 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:57.837 BasePage:134 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:57.873 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:27:59.464 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:01.848 BasePage:166 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:01.958 VerificationUtils:38 - Actual: PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:01.958 VerificationUtils:39 - Expected: PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:02.761 BasePage:104 - Sauce Labs Backpack is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:04.334 BasePage:166 - Attribute: text - value for Sauce Labs Backpack is - Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:04.399 VerificationUtils:38 - Actual: Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:04.400 VerificationUtils:39 - Expected: Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:05.300 BasePage:166 - Attribute: text - value for carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection. is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:05.355 VerificationUtils:38 - Actual: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:05.355 VerificationUtils:39 - Expected: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:09.154 BasePage:166 - Attribute: text - value for $29.99 is - $29.99
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:09.206 VerificationUtils:38 - Actual: $29.99
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:09.206 VerificationUtils:39 - Expected: $29.99
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:09.529 ProductTests:74 - ******************* Test ended: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:09.529 ProductTests:75 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:13.368 ProductTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:13.368 ProductTests:65 - ******************* Test started: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:13.421 BasePage:134 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:13.457 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:15.041 BasePage:134 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:15.095 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:16.315 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:18.072 BasePage:166 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:18.160 VerificationUtils:38 - Actual: PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:18.160 VerificationUtils:39 - Expected: PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:19.299 BasePage:166 - Attribute: text - value for Sauce Labs Backpack is - Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:19.371 VerificationUtils:38 - Actual: Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:19.371 VerificationUtils:39 - Expected: Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:20.144 BasePage:166 - Attribute: text - value for $29.99 is - $29.99
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:20.194 VerificationUtils:38 - Actual: $29.99
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:20.194 VerificationUtils:39 - Expected: $29.99
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:20.913 BasePage:111 - Settings button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:22.625 BasePage:111 - Logout button is clicked
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:23.047 ProductTests:74 - ******************* Test ended: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:23.047 ProductTests:75 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:26.378 ProductTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:26.379 ProductTests:65 - ******************* Test started: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:26.413 BasePage:134 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:26.442 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:28.015 BasePage:134 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:28.050 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:29.634 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:31.018 BasePage:166 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:31.070 VerificationUtils:38 - Actual: PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:31.071 VerificationUtils:39 - Expected: PRODUCTS
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:31.909 BasePage:166 - Attribute: text - value for Sauce Labs Backpack is - Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:31.955 VerificationUtils:38 - Actual: Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:31.955 VerificationUtils:39 - Expected: Sauce Labs Backpack
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:32.585 BasePage:166 - Attribute: text - value for $29.99 is - $29.99
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:32.637 VerificationUtils:38 - Actual: $29.99
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:32.638 VerificationUtils:39 - Expected: $29.99
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:33.212 BasePage:111 - Settings button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 08:28:34.933 BasePage:111 - Logout button is clicked
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:35.422 ProductTests:74 - ******************* Test ended: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:35.422 ProductTests:75 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 08:28:38.956 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 11:24:40.306 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 12:05:34.259 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 12:23:25.519 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 12:23:53.089 BaseTest:155 - sessionId: b1153395-ae48-4c94-b872-441b59813352
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 12:23:54.108 LoginTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 12:23:54.109 LoginTests:59 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:23:58.340 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:05.671 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:11.368 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:11.451 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:14.079 BasePage:134 - Filling Mimosamimosa1. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:14.120 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:15.263 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:17.785 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:17.831 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 12:24:17.831 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 12:24:18.555 LoginTests:67 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 12:24:18.556 LoginTests:68 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 12:24:25.157 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:13:59.373 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:14:19.594 BaseTest:155 - sessionId: 8ba9a879-d686-4324-8549-2dc645f2ce29
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:14:20.862 LoginTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:14:20.862 LoginTests:59 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:27.016 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:34.826 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:43.391 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:43.473 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:44.796 BasePage:134 - Filling Mimosamimosa1. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:44.869 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:45.197 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:48.431 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:48.513 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:14:48.514 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:14:49.557 LoginTests:67 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:14:49.557 LoginTests:68 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:14:59.596 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:19:11.826 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:19:21.687 BaseTest:155 - sessionId: c2067f91-eada-4aac-a948-926f69bfc014
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:19:22.694 LoginTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:19:22.696 LoginTests:59 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:26.620 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:33.430 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:38.899 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:38.958 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:41.047 BasePage:134 - Filling Mimosamimosa1. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:41.167 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:43.323 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:45.731 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:45.777 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:19:45.777 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:19:46.471 LoginTests:67 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:19:46.471 LoginTests:68 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:19:52.934 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:22:51.482 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:23:00.606 BaseTest:155 - sessionId: f31f2a38-e8b3-459c-991e-c260b4884e64
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:23:01.556 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:23:01.557 LoginTests:58 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:05.052 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:10.596 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:15.883 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:15.947 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:17.482 BasePage:134 - Filling Mimosamimosa1. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:17.539 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:18.789 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:22.123 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:22.188 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 14:23:22.188 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:23:22.876 LoginTests:66 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:23:22.876 LoginTests:67 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 14:23:24.949 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:42:56.891 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:08.692 BaseTest:155 - sessionId: 0f6dce61-0010-46d8-92f5-8d48d4b708e0
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:09.480 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:09.481 LoginTests:58 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:20.852 LoginTests:66 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:20.853 LoginTests:67 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:22.450 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:22.451 LoginTests:58 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:33.678 LoginTests:66 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:33.679 LoginTests:67 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:35.263 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:35.264 LoginTests:58 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:35.357 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:39.803 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:45.433 BasePage:134 - Filling hammann.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:45.537 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:46.683 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:46.729 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:47.843 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:50.237 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:50.275 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:43:50.276 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:50.774 LoginTests:66 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:50.774 LoginTests:67 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:52.193 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:43:52.194 LoginTests:58 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:44:03.509 LoginTests:66 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:44:03.510 LoginTests:67 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:44:04.758 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:44:04.758 LoginTests:58 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:44:17.328 LoginTests:66 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:44:17.328 LoginTests:67 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:44:18.832 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:46:30.363 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:46:39.447 BaseTest:155 - sessionId: 90788520-3363-4b4f-9e32-32fd50587838
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:46:40.199 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:46:40.200 LoginTests:58 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:46:51.874 LoginTests:66 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:46:51.874 LoginTests:67 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:46:53.480 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:46:53.480 LoginTests:58 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:47:04.645 LoginTests:66 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:47:04.646 LoginTests:67 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:47:06.309 LoginTests:57 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:47:06.310 LoginTests:58 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:14.819 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:24.613 BaseTest:155 - sessionId: 0d7452bc-45e3-419b-a207-3513ffaefd16
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:25.419 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:25.419 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:29.033 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:33.479 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:37.346 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:37.403 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:38.659 BasePage:134 - Filling Execution7.g in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:38.712 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:39.826 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:42.264 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:42.303 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 15:54:42.303 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:42.843 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:42.844 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:44.482 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:44.483 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:55.300 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:55.300 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:55.994 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:54:55.994 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:56:16.937 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:56:57.341 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:57:40.652 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:57:51.819 BaseTest:155 - sessionId: f45aac6e-8b6c-4c62-8599-cacbd7dca4f9
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:57:52.765 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:57:52.766 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 15:58:32.995 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:01:53.997 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:03.334 BaseTest:155 - sessionId: efca597e-6ace-41a0-bc46-aa30445ce85c
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:04.035 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:04.036 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:15.372 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:15.373 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:17.272 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:17.273 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:28.390 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:28.390 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:30.221 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:30.221 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:30.335 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:34.973 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:39.065 BasePage:134 - Filling hammann.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:39.112 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:41.263 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:41.313 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:42.422 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:44.660 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:44.692 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:44.693 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:45.196 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:45.196 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:46.316 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:02:46.316 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:52.578 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:52.618 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:53.702 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:53.737 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:02:54.816 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:03:07.254 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:03:07.254 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:03:08.900 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:03:08.900 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:03:19.994 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:03:19.994 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:03:20.921 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:20:48.498 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:20:57.150 BaseTest:155 - sessionId: 30a578a2-cc99-4b16-88d8-1ad56739ad5b
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:20:58.117 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:20:58.118 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:09.989 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:09.990 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:11.825 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:11.825 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:23.044 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:23.044 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:24.948 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:24.948 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:25.037 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:29.523 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:34.136 BasePage:134 - Filling hammann.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:34.191 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:36.615 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:36.751 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:39.370 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:39.371 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:41.212 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:41.213 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:52.610 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:52.611 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:54.220 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:21:54.220 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:54.337 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:54.401 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:55.516 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:55.559 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:21:56.662 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:22:07.283 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:22:07.283 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:22:08.814 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:22:08.814 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:22:19.342 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:22:19.342 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:22:20.877 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:32:49.967 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:32:58.531 BaseTest:155 - sessionId: 03a4a0df-e6df-4d98-9b7b-8642715ea1d6
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:32:59.324 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:32:59.324 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:11.803 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:11.804 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:13.546 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:13.547 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:25.415 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:25.415 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:27.256 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:27.257 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:33:27.373 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:33:32.572 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:33:36.405 BasePage:134 - Filling hammann.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:33:36.446 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:33:37.777 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:33:37.813 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:40.289 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:40.289 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:42.173 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:42.174 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:53.701 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:53.701 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:55.306 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:55.307 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:55.639 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:55.640 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:57.099 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:57.099 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:57.481 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:57.481 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:33:59.403 BaseTest:198 - Appium Server stopped.............
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:34:41.428 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:34:50.097 BaseTest:155 - sessionId: e75a3866-4d12-46ca-b0a8-54c081168656
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:34:50.971 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:34:50.972 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:37:39.649 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:18.178 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:27.814 BaseTest:155 - sessionId: 2804805d-f581-4607-a56c-4eff4fbe3468
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:28.749 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:28.750 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:29.765 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:29.766 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:31.513 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:31.513 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:32.137 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:32.137 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:34.164 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:34.164 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:34.776 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:34.776 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:38:47.498 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:39:02.010 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:39:12.762 BaseTest:155 - sessionId: fc86b752-dff4-45df-8d19-42abe6d40b67
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:39:24.172 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:39:24.173 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:56:33.075 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:56:42.174 BaseTest:155 - sessionId: 7a5cf67f-266c-424d-a21f-3d714419c984
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:56:43.134 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:56:43.135 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:56:46.841 BasePage:111 - Accepter esl cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:56:51.569 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:56:55.902 BasePage:134 - Filling hammann.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:56:55.958 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:56:57.368 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:56:57.430 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 16:56:58.542 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:00.463 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:00.463 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:04.556 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:04.556 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:15.337 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:15.337 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:16.916 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:16.916 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:27.671 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:27.671 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:29.070 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:29.070 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:39.792 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:39.792 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:40.724 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:40.724 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:51.454 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:51.454 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:52.827 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:57:52.827 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:58:03.893 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 16:58:03.894 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:22:37.569 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:22:47.380 BaseTest:155 - sessionId: c2640de5-01aa-4117-be80-395112192c31
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:22:48.368 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:22:48.368 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:22:53.089 BasePage:111 - Accepter les cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:22:58.893 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:02.697 BasePage:134 - Filling hammann.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:02.750 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:03.896 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:04.736 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:05.858 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:09.469 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:09.499 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:09.499 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:10.092 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:10.093 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:11.910 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:11.910 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:11.964 BasePage:111 - Modifier is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:12.634 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:12.676 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:13.790 BasePage:134 - Filling Execution7.g in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:13.831 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:14.939 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:16.314 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:16.354 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:16.354 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:16.878 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:16.878 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:18.390 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:18.390 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:18.438 BasePage:111 - Modifier is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:19.096 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:19.130 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:20.974 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:21.007 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:23:22.087 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:34.923 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:34.924 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:36.823 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:36.823 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:47.734 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:23:47.735 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:15.368 BaseTest:133 - Log file path: logs\Android_Pixel_3_API_30
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:23.578 BaseTest:155 - sessionId: 54222e7f-5064-4419-a9d2-caa64af74043
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:24.349 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:24.349 LoginTests:55 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:27.898 BasePage:111 - Accepter les cookies is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:32.529 BasePage:111 - Me connecter is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:36.626 BasePage:134 - Filling hammann.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:36.682 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:38.158 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:38.202 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:39.648 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:41.741 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:41.772 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:41.772 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:42.366 LoginTests:63 - *****************  ** Test ended: invalidUserName*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:42.367 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:43.655 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:43.655 LoginTests:55 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:43.700 BasePage:111 - Modifier is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:44.361 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:44.407 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:45.523 BasePage:134 - Filling Execution7.g in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:45.570 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:46.670 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:47.945 BasePage:166 - Attribute: text - value for Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer. is - Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:47.978 VerificationUtils:38 - Actual: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:47.979 VerificationUtils:39 - Expected: Votre courriel ou votre mot de passe est incorrect. Veuillez réessayer.
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:48.477 LoginTests:63 - *****************  ** Test ended: invalidPassword*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:48.477 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:50.008 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:27:50.008 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:50.046 BasePage:111 - Modifier is clicked
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:50.702 BasePage:134 - Filling hamman.ahmadou@institutsaintjean.org in Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:50.742 BasePage:118 - Clearing: Username Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:51.840 BasePage:134 - Filling Execution7. in Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:51.880 BasePage:118 - Clearing: Password Textbox
+[logsAndroid_Pixel_3_API_30 INFO ] 2023-02-14 17:27:52.984 BasePage:111 - Login button is clicked
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:28:03.442 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:28:03.442 LoginTests:64 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:28:05.010 LoginTests:54 - ---------------------------------------------------
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:28:05.011 LoginTests:55 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:28:15.668 LoginTests:63 - *****************  ** Test ended: successfulLogin*******************
+[logsAndroid_Pixel_3_API_30 DEBUG] 2023-02-14 17:28:15.668 LoginTests:64 - ---------------------------------------------------
